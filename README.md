@@ -10,7 +10,7 @@ I input a specified string of text. Also I input a few mathematical calculations
 -  expr command 
 -  clear command 
 
-<h2>Documents:</h2>
+<h2>Examples:</h2>
 
  <h4>
 Generate output with the echo command: </h4>
